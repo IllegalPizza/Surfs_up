@@ -9,7 +9,7 @@ The purpouse of the anaylysis was to detemine weather patterns to better predict
 
 The rersults of the anayalsis show the following:
 
--The Average (mean) temperatures for June and December show only a 4 degree difference. 
+- The Average (mean) temperatures for June and December show only a 4 degree difference. 
 
 - The Maximum Temperatures for June and December show only a 2 degree difference. 
 
